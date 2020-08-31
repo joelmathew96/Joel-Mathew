@@ -41,6 +41,7 @@
                     <div class="col-lg-10 align-self-end">
                         <h1 class="text-uppercase text-white font-weight-bold">Your Favourite Shopping Website</h1>
                         <hr class="divider my-4" />
+                          <img class="img-fluid" src="assets/img/Korea Family Mart.jpg" alt="" />
                     </div>
                     <div class="col-lg-8 align-self-baseline">
                         <p class="text-white-75 font-weight-light mb-5"> Korea Family Mart can help you to buy more products!</p>
