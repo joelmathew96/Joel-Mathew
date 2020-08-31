@@ -1,6 +1,10 @@
 
 <html lang="en">
     <head>
+        <section class="page-section clearfix">
+    <div class="container">
+      <div class="intro">
+        <img class="intro-img img-fluid mb-3 mb-lg-0 rounded" src="img/Korea Family Market.jpg" alt="">
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
@@ -40,7 +44,7 @@
             <div class="container h-100">
                 <div class="row h-100 align-items-center justify-content-center text-center">
                     <div class="col-lg-10 align-self-end">
-                        <h1 class="text-uppercase text-white font-weight-bold">Your Favourite Shopping Website</h1>
+                        <h1 class="text-uppercase text-orange font-weight-bold">Your Favourite Shopping Website</h1>
                         <hr class="divider my-4" />
                           <img class="img-fluid" src="assets/img/Korea Family Mart.jpg" alt="" />
                     </div>
