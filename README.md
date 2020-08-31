@@ -1,5 +1,6 @@
 
 
+
 <html lang="en">
 <body style="background-color:powderblue;">
 
@@ -28,7 +29,7 @@
 <body>
 
   <h1 class="site-heading text-center text-white d-none d-lg-block">
-    <span class="site-heading-upper text-primary mb-3">Where sell all the korea products</span>
+    <span class="site-heading-upper text-primary mb-3">We sell all the korea products</span>
     <span class="site-heading-lower"><b>Korea Family Market</b></span>
   </h1>
 
@@ -109,4 +110,3 @@
 
 </body>
 </html>
-
