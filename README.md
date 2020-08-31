@@ -172,7 +172,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-4 ml-auto text-center mb-5 mb-lg-0">
+                    <div class="col-lg-4 ml-auto text-left mb-5 mb-lg-0">
                         <i class="fas fa-phone fa-3x mb-3 text-muted"></i>
                         <div>+60 07-231 7155</div>
                     </div>
@@ -189,7 +189,7 @@
                 <div class="row">
                     <div class="col-md-4 mb-3 mb-md-0">
                         <div class="card py-4 h-100">
-                            <div class="card-body text-center">
+                            <div class="card-body text-right">
                                 <i class="fas fa-map-marked-alt text-primary mb-2"></i>
                                 <h4 class="text-uppercase m-0">Address</h4>
                                 <hr class="my-4" />
@@ -210,4 +210,5 @@
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
     </body>
+    </html>
 
