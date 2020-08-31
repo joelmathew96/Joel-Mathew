@@ -157,8 +157,8 @@
         <!-- Call to action-->
         <section class="page-section bg-dark text-white">
             <div class="container text-center">
-                <h2 class="mb-4">Free Download at Start Bootstrap!</h2>
-                <a class="btn btn-light btn-xl" href="https://startbootstrap.com/themes/creative/">Download Now!</a>
+                <h2 class="mb-4"</h2>
+              
             </div>
         </section>
         <!-- Contact-->
@@ -184,6 +184,19 @@
                 </div>
             </div>
         </section>
+          <section class="contact-section bg-black" id="contact">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <div class="card py-4 h-100">
+                            <div class="card-body text-center">
+                                <i class="fas fa-map-marked-alt text-primary mb-2"></i>
+                                <h4 class="text-uppercase m-0">Address</h4>
+                                <hr class="my-4" />
+                                <div class="small text-black-50">No 81,Jalan Indah 15/2,Taman Bukit Indah 81200 Johor Bahru, Malaysia</div>
+                            </div>
+                        </div>
+                    </div>
         <!-- Footer-->
         <footer class="bg-light py-5">
             <div class="container"><div class="small text-center text-muted">Copyright © 2020 - Korea Family Market</div></div>
