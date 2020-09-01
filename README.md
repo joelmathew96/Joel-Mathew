@@ -43,13 +43,24 @@
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
- 
+<style>
+  a.link-btn {
+        color: #fff;
+        background: #337ab7;
+        display:inline-block;
+        border: 1px solid #2e6da4;        
+        font: bold 14px Arial, sans-serif;
+        text-decoration: none;
+        border-radius: 2px;
+        padding: 6px 20px;
+    }
+ </style>
 
 <div class="topnav">
-  <a href="index.html" class="nav-link">Home</a>
-  <a href="products.html" class="nav-link">Products</a>
-  <a href="about.html" class="nav-link">About Us</a>
-  <a href="contact.html" class="nav-link">Contact</a>
+  <a href="index.html" class="link-btn"">Home</a>
+  <a href="products.html"  class="link-btn">Products</a>
+  <a href="about.html" class="link-btn">About Us</a>
+  <a href="locate.html" class="link-btn">Location</a>
   </div>
 
   <section class="page-section clearfix">
