@@ -43,20 +43,14 @@
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-     <div class="col-12 col-md-10 d-none d-xl-block">
-            <nav class="site-navigation position-relative text-right" role="navigation">
-<ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-                <li><a href="#home-section" class="nav-link">Home</a></li>
-                <li><a href="#products-section" class="nav-link">Products</a></li>
-                <li><a href="#about-section" class="nav-link">About Us</a></li>
-                <li><a href="#contact-section" class="nav-link">Contact</a></li>
-              </ul>
-            </nav>
-          </div>
+ 
 
-
-         
-  </nav>
+<div class="topnav">
+  <a href="index.html" class="nav-link">Home</a>
+  <a href="products.html" class="nav-link">Products</a>
+  <a href="about.html" class="nav-link">About Us</a>
+  <a href="contact.html" class="nav-link">Contact</a>
+  </div>
 
   <section class="page-section clearfix">
     <div class="container">
