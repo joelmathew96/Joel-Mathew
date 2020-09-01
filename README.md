@@ -55,7 +55,7 @@
   <section class="page-section clearfix">
     <div class="container">
       <div class="intro">
-        <img src="src/intro.jpg" alt="Image" style="width:251px; height:201px;" >
+        <img src="src/intro.jpg" alt="Image" style="width:1000px; height:201px;" >
         <div class="intro-text left-0 text-center bg-faded p-5 rounded">
           <h2 class="section-heading mb-4">
             <span class="section-heading-upper">Are you willing to</span>
