@@ -57,7 +57,7 @@
  </style>
 
 <div class="topnav">
-  <a href="index.html" class="link-btn"">Home</a>
+  <a href="index.html"  class="link-btn">Home</a>
   <a href="products.html"  class="link-btn">Products</a>
   <a href="about.html" class="link-btn">About Us</a>
   <a href="locate.html" class="link-btn">Location</a>
